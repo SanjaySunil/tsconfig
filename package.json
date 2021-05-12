@@ -1,0 +1,13 @@
+{
+  "name": "tsconfig",
+  "version": "1.0.0",
+  "description": "My TSconfig for my projects.",
+  "main": "tsconfig.json",
+  "repository": "sanjaysunil/tsconfig",
+  "license": "MIT",
+  "author": {
+		"name": "Sanjay Sunil",
+		"email": "sanjaysunil@protonmail.com",
+		"url": "https://sanjaysunil.me"
+	},
+}
