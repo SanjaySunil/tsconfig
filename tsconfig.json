@@ -6,6 +6,7 @@
     "diagnostics": true,
     "emitBOM": true,
     "forceConsistentCasingInFileNames": true,
+    "jsx": "react",
     "module": "CommonJS",
     "moduleResolution": "Node",
     "newLine": "lf",
