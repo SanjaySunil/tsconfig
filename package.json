@@ -1,7 +1,7 @@
 {
-  "name": "tsconfig",
+  "name": "sanjaysunil/tsconfig",
   "version": "1.0.0",
-  "description": "My TSconfig for my projects.",
+  "description": "Useful TSconfig for projects.",
   "main": "tsconfig.json",
   "repository": "sanjaysunil/tsconfig",
   "license": "MIT",
@@ -9,5 +9,14 @@
     "name": "Sanjay Sunil",
     "email": "sanjaysunil@protonmail.com",
     "url": "https://sanjaysunil.me"
-  }
+  },
+  "files": [
+		"tsconfig.json"
+	],
+	"keywords": [
+		"tsconfig",
+		"typescript",
+		"ts",
+		"config"
+	]
 }
